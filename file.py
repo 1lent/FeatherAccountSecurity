@@ -19,6 +19,8 @@ with open(awarenessFilePath, "w") as new_file:
         new_file.write("\n")
     new_file.write("AWARENESS ")
     new_file.write("All you need to stop yourself getting into this trouble. Think of right now if your mate wasnt testing you about your security there goes your account.json as seen above. A simple 20 line script taking it with ease.")
+    new_file.write("\n");new_file.write("\n")
+    new_file.write("The best antivirus is yourself")
 
 os.startfile(awarenessFilePath)
 
